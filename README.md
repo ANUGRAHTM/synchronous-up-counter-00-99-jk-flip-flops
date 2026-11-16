@@ -13,4 +13,4 @@ This project is a two-digit synchronous up counter designed and simulated in Log
 
 ## Circuit diagram
 
-![Circuit diagram](S-counter-simulation.png)
+![Circuit diagram](S-COUNTER-SIMULATION.PNG)
